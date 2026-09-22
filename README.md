@@ -1,9 +1,10 @@
 # 🛰️ LoRa Satellite Ground Station Tracking System
 
-![Status](https://img.shields.io/badge/Status-Live_%26_Operational-success?style=flat-square)
-![Hardware](https://img.shields.io/badge/Hardware-ESP32%20%7C%20Dual_RA--02-1f618d?style=flat-square)
-![Network](https://img.shields.io/badge/Network-TinyGS%20%7C%20MQTT-d35400?style=flat-square)
-![Modulation](https://img.shields.io/badge/Modulation-Chirp_Spread_Spectrum_(CSS)-6c3483?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Tracking_Live-10B981?style=for-the-badge)
+![MCU](https://img.shields.io/badge/MCU-ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![RF Module](https://img.shields.io/badge/RF-LoRa_RA--02-0052CC?style=for-the-badge)
+![Network](https://img.shields.io/badge/Network-TinyGS_%2B_MQTT-3C5280?style=for-the-badge&logo=mqtt&logoColor=white)
+![Modulation](https://img.shields.io/badge/Modulation-Chirp_Spread_Spectrum-8E44AD?style=for-the-badge)
 
 > **A low-cost, automated LPWAN ground station engineered to receive, decode, and log real-time telemetry from Low Earth Orbit (LEO) CubeSats.**[cite: 23, 24]
 
@@ -38,7 +39,9 @@ To ensure high-reliability reception over long distances (several kilometers thr
 *   **User Interface:** 0.95” OLED Display for on-site, real-time telemetry readout and system debugging[cite: 23].
 
 ### 🔌 Circuit Design
-![Circuit Schematic](./docs/IMG-20260504-WA0014.jpg)
+<img width="900" height="1600" alt="IMG-20260429-WA0002" src="https://github.com/user-attachments/assets/0a7353bd-f891-49e1-81bb-39c92e017dc3" />
+<img width="1549" height="1600" alt="IMG-20260504-WA0014" src="https://github.com/user-attachments/assets/06062bbf-ee8b-47ac-aad4-77aebd98e8a9" />
+
 *(ESP32 interfaced with RA-02 transceiver, Buck Converter, and OLED Display)*
 
 ---
@@ -52,8 +55,9 @@ To ensure high-reliability reception over long distances (several kilometers thr
 ---
 
 ## 🏆 Project Credentials
-*   **Institution:** Guru Nanak Dev Engineering College (GNDEC), Ludhiana[cite: 23, 24]
-*   **Developers:** Gurnoor Kaur & Gurpuneet Singh Hunjan[cite: 23, 24]
+*   **Institution:** Guru Nanak Dev Engineering College (GNDEC), Ludhiana
+*   **Developers:** Gurnoor Kaur & Gurpuneet Singh Hunjan
 *   **Documentation:** 
-    *   [Read the Full Project Synopsis]([./docs/Satellite report file ok.pdf](https://github.com/gpsnoor05/LoRa-Satellite-Ground-Station/blob/eff0cfbafe67c39a50481c337d23ee7647ca7978/Satellite%20report%20file%20ok.pdf))[cite: 24]
-    *   [View the Presentation Deck](./docs/GROUND_STATION_FOR_TRACKING_LoRa_SATELLITES.pptx)[cite: 22]
+    *   [Read the Full Project Synopsis](./Satellite%20report%20file%20ok.pdf)
+    *   [View the Presentation Deck](./GROUND%20STATION%20FOR%20TRACKING%20LoRa%20SATELLITES.pptx)
+    *   [Read the Minor Project Document](./Synopsis.docx)
