@@ -55,5 +55,5 @@ To ensure high-reliability reception over long distances (several kilometers thr
 *   **Institution:** Guru Nanak Dev Engineering College (GNDEC), Ludhiana[cite: 23, 24]
 *   **Developers:** Gurnoor Kaur & Gurpuneet Singh Hunjan[cite: 23, 24]
 *   **Documentation:** 
-    *   [Read the Full Project Synopsis](./docs/Synopsis.pdf)[cite: 24]
+    *   [Read the Full Project Synopsis](./docs/Satellite report file ok.pdf)[cite: 24]
     *   [View the Presentation Deck](./docs/GROUND_STATION_FOR_TRACKING_LoRa_SATELLITES.pptx)[cite: 22]
