@@ -19,7 +19,10 @@
 <summary><b>🛰️ Click here to preview the Live Dashboard Logs</b></summary>
 <br>
 <a href="https://app.tinygs.com/station/GNDEC@wDgUnkdh6fW6PtWr" target="_blank">
-  <img src="./image_f469fe.jpg" alt="TinyGS Dashboard Preview">
+  <img width="412" height="639" alt="image" src="https://github.com/user-attachments/assets/e9bc9bbf-2ccb-4f20-ab69-6efd86034c10" />
+  <img width="432" height="633" alt="image" src="https://github.com/user-attachments/assets/68760bee-f961-4f7a-8571-8f431ac468de" />
+
+
 </a>
 <br>
 <em>(Click the preview image above to explore the live interactive dashboard)</em>
