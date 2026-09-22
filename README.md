@@ -12,9 +12,18 @@
 
 ## 🔴 LIVE SATELLITE TRACKING DASHBOARD
 **The ground station is currently active and autonomously tracking satellite passes.** 
+
 📡 **[View Live Telemetry Data on TinyGS](https://app.tinygs.com/station/GNDEC@wDgUnkdh6fW6PtWr)**
 
-*(Click the link above to view real-time packets, signal quality, and satellite tracking history received by this specific hardware node).*
+<details>
+<summary><b>🛰️ Click here to preview the Live Dashboard Logs</b></summary>
+<br>
+<a href="https://app.tinygs.com/station/GNDEC@wDgUnkdh6fW6PtWr" target="_blank">
+  <img src="./image_f469fe.jpg" alt="TinyGS Dashboard Preview">
+</a>
+<br>
+<em>(Click the preview image above to explore the live interactive dashboard)</em>
+</details>
 
 ---
 
